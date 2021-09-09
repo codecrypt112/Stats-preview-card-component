@@ -96,7 +96,7 @@
     min-height: 10em;
     width: 540px;
     min-width: 200px;
-    background: url(/images/image-header-desktop.jpg);
+    background: url(images/image-header-desktop.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 0 10px 10px 0;
@@ -194,7 +194,7 @@
       height: 220px;
       width: 300px;
       border-radius: 10px 10px 0 0;
-      background: url(/images/image-header-mobile.jpg) no-repeat;
+      background: url(images/image-header-mobile.jpg) no-repeat;
       background-size: contain;
     }
     .attribution {
