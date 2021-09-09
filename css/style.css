@@ -194,7 +194,7 @@
       height: 220px;
       width: 300px;
       border-radius: 10px 10px 0 0;
-      background: url(./images/image-header-mobile.jpg) no-repeat;
+      background: url(../images/image-header-mobile.jpg) no-repeat;
       background-size: contain;
     }
     .attribution {
